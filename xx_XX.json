@@ -42,6 +42,7 @@
   "Deinstall": "Deinstall",
   "__comment_4": "/* /Classes/Core.js */",
   "Authentication": "Authentication",
+  "Login with Steam": "Login with Steam",
   "If you want to upload Mods on Steam-Workshop, you need to be authenticated by Steam.": "If you want to upload Mods on Steam-Workshop, you need to be authenticated by Steam.",
   "This program is licensed under OpenSource.": "This program is licensed under OpenSource.",
   "Version:": "Version:",
