@@ -7,7 +7,7 @@
   "File": "Ficheiro",
   "New...": "Novo...",
   "Project": "Projecto",
-  "Asset": "Asset", //I can't find a translation that suits this...
+  "Asset": "Asset",
   "Open": "Abrir",
   "Open Recent": "Abrir Recente",
   "- No Recent Files -": "- Sem Ficheiros Recentes -",
@@ -46,7 +46,7 @@
   "Authentication": "Autenticação",
   "Login with Steam": "Ligar-se com a Steam",
   "If you want to upload Mods on Steam-Workshop, you need to be authenticated by Steam.": "Se quiser fazer upload de Mods para a Steam-Workshop, precisa autenticar-se pela Steam.",
-  "This program is licensed under OpenSource.": "Este progrmaa está sob uma licensa OpenSource.",
+  "This program is licensed under OpenSource.": "Este programa está sob uma licensa OpenSource.",
   "Version:": "Versão:",
   "Electron:": "Electron:",
   "Render Engine:": "Mecanismo the Renderização:",
@@ -56,12 +56,12 @@
   "Platform:": "Platforma:",
   "Release:": "Lançamento:",
   "Architecture:": "Arquitectura:",
-  "Endianness:": "Extremidade:", //according to Wikipedia
-  "Hostname:": "Hostname:", //we don't translate this
+  "Endianness:": "Extremidade:",
+  "Hostname:": "Hostname:",
   "Memory (RAM):": "Memoria (RAM):",
   "This file is an Core file! If you modify this file, your Game can be crash.": "Este ficheiro é um ficheiro Core. Se o modificares, o teu jogo pode terminar inesperadamente.",
   "Mod-Editor": "Mod-Editor",
-  "Source": "Fonte", //I don't believe this is the best option...
+  "Source": "Fonte",
   "API-Version": "Versão-API",
   "Name": "Nome",
   "Description": "Descrição",
@@ -86,14 +86,14 @@
   "Preview": "Pré-visualizar",
   "Properties": "Propriedades",
   "State": "Estado",
-  "Rember...": "Rember...",
+  "Rember...": "Recordar...",
   "Save the changes before closing?": "Guardar alterações antes de Sair?",
   "Cancel": "Cancelar",
   "General": "Geral",
   "Shortcuts": "Atalhos",
   "Languages": "Línguas",
   "Interval:": "Intervalo:",
-  "<u>W</u>orkspace:": "(<u>W</u>) Área de Trabalho:", //I believe the underline is for shortcut purposes
+  "<u>W</u>orkspace:": "Área de Trabalho:",
   "Browse": "Navegar",
   "Use this as the default and do not ask again.": "Usar esta definição e não perguntar novamente.",
   "Design:": "Design:",
@@ -108,7 +108,7 @@
   "&copy 2017 Adrian Preuß<br />All Rights Reserved.": "&copy 2017 Adrian Preuß<br />Todos os direitos reservados.",
   "Steam Workshop": "Steam Workshop",
   "Loading Workshop...": "Carregando Workshop...",
-  "<u>S</u>earch:": "(<u>S</u>) Procurar:", //once again, shortcuts
+  "<u>S</u>earch:": "Procurar:",
   "Search for Mods...": "Procurar Mods...",
   "No Items Found!": "Sem Items Encontrados!",
   "We couldn't find any items you where looking for.": "Não conseguimos encontrar os items procurados.",
@@ -133,6 +133,6 @@
   "Reports:": "Denúncias:",
   "Workspace": "Área de Trabalho",
   "Select a Workspace": "Seleccionar Área de Trabalho",
-  "DSTEd stores your projects in your installed game.<br />Please select your installed <strong>Don't Starve Together</strong> directory.": "O DSTEd guarda os teus projectos no directoria em que o teu jogo está instalado.<br />Por favor escolhe a directoria onde o <strong>Don't Starve Together</strong> está instalado.",
+  "DSTEd stores your projects in your installed game.<br />Please select your installed <strong>Don't Starve Together</strong> directory.": "O DSTEd guarda os seus projectos na directoria em que o jogo está instalado.<br />Por favor escolhe a directoria onde o <strong>Don't Starve Together</strong> está instalado.",
   "OK": "OK"
 }
