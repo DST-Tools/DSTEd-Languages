@@ -47,7 +47,7 @@
     "Details": "Details",
     "Deinstall": "Deinstallieren",
     "This program is licensed under OpenSource.": "Dieses Programm ist unter OpenSource lizensiert.",
-    "© 2017 Adrian Preu\u00df | All Rights Reserved.": "\u00a9 2017 Adrian Preu\u00df | Alle Rechte Vorbehalten.",
+    "\u00a9 2017 Adrian Preu\u00df | All Rights Reserved.": "\u00a9 2017 Adrian Preu\u00df | Alle Rechte Vorbehalten.",
     "Version:": "Version:",
     "Electron:": "Electron:",
     "Render Engine:": "Render Engine:",
@@ -73,7 +73,7 @@
     "Rember...": "Merken...",
     "Save the changes before closing?": "Save the changes before closing?",
     "Cancel": "Abbrechen",
-    "© 2017 Adrian Preu\u00df<br \/>All Rights Reserved.": "\u00a9 2017 Adrian Preu\u00df<br \/>Alle Rechte Vorbehalten.",
+    "\u00a9 2017 Adrian Preu\u00df<br \/>All Rights Reserved.": "\u00a9 2017 Adrian Preu\u00df<br \/>Alle Rechte Vorbehalten.",
     "Steam Workshop": "Steam Workshop",
     "Loading Workshop...": "Lade Workshop...",
     "<u>S<\/u>earch:": "<u>S<\/u>uche:",
@@ -138,5 +138,6 @@
     "Section B": "Sektion B",
     "Section C": "Sektion C",
     "Available Languages": "Verf\u00fcgbare Sprachen",
-    "Seconds": "Sekunden"
+    "Seconds": "Sekunden",
+    "© 2017 Adrian Preu\u00df<br \/>All Rights Reserved.": "© 2017 Adrian Preu\u00df<br \/>Alle Rechte vorbehalten."
 }
