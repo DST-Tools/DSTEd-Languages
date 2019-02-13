@@ -88,7 +88,7 @@
   "__comment_16": "/* /Classes/Monaco.js */",
   "__comment_17": "/* /Classes/Pagination.js */",
   "No Items Available": "没有可用的项目",
-  "Page": "页",//usually use "第 %s 页"
+  "Page": "页",
   "Items": "项目",
   "__comment_18": "/* /Classes/Screen.js */",
   "__comment_19": "/* /Classes/Software.js */",
